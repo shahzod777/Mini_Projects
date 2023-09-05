@@ -1,1 +1,1 @@
-<h3 align= "center">Expense tracker for hotel rooms</h3>
+<h3 align= "center">Expense tracker API for hotel rooms</h3>
